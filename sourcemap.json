@@ -1,1 +1,1 @@
-{"name":"signal","className":"ModuleScript","filePaths":["src\\init.luau","default.project.json"]}
+{"name":"Signal","className":"Folder","filePaths":["default.project.json"],"children":[{"name":"src","className":"ModuleScript","filePaths":["src\\init.luau"]}]}
