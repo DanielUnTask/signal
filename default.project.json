@@ -1,9 +1,6 @@
 {
   "name": "Signal",
   "tree": {
-    "$className": "Folder",
-    "src": {
-      "$path": "src"
-    }
+    "$path": "src"
   }
 }
