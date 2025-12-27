@@ -2,8 +2,7 @@
 name = "danieluntask/signal"
 description = "Simple and usefully signal module."
 license = "MIT"
-version = "0.1.4"
+version = "0.1.5"
 authors = ["Gamer32yttea"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
-exclude = ["aftman.toml", "default.project.json", "README.md", "LICENSE", "selene.toml", "wally.lock", ".gitignore"]
