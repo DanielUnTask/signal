@@ -2,7 +2,7 @@
 --!optimize 2
 
 --- Requires
-local Task = require(script.Parent.task)
+local Task = require(script.task)
 
 --- Internal error function used after signal destruction
 local function MAKE_ERROR()
